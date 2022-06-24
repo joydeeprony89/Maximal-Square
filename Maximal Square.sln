@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximal Square", "Maximal Square\Maximal Square.csproj", "{4782A892-D783-4981-A89E-63FEF307D99B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4782A892-D783-4981-A89E-63FEF307D99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4782A892-D783-4981-A89E-63FEF307D99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4782A892-D783-4981-A89E-63FEF307D99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4782A892-D783-4981-A89E-63FEF307D99B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92BF40A2-A775-48E5-9FE8-0B6E02829A77}
+	EndGlobalSection
+EndGlobal
